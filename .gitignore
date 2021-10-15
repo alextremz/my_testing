@@ -2,3 +2,6 @@ logs/
 main.log
 *.log
 bin/
+.vs/Visual/v16/.suo
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
